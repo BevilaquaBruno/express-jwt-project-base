@@ -1,0 +1,1 @@
+# Base for Nodejs, Mongodb and JWT for authentication
